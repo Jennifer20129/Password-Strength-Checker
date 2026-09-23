@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Password Security Analyzer
 
 A simple web application that analyzes password strength and provides security recommendations in real time.
@@ -29,3 +30,6 @@ What I Learned
 * String methods
 * Clipboard API
 * Dynamic UI update
+=======
+# Password-Strength-Checker
+>>>>>>> 81118cbe46ec8a66b3cf7b3d107e1d3da0f08091
